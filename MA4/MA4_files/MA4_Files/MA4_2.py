@@ -21,7 +21,7 @@ def main():
 	print(f.get())
 	f.set(7)
 	print(f.get())
-	n = 45#------------------( : please change it, fib(69) is not an integer and it wont compute : ) ---------- I wanna try though, miss you so much 
+	n = 69#------------------( : please change it, fib(69) is not an integer and it wont compute : ) ---------- I wanna try though, miss you so much 
 	print("N value:", n)
 	f.set(n) 
 	start = time.perf_counter()
